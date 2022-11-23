@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color:white;
+    display: flex;
+}
+
+header h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 5rem;
+}
+
+main p{
+    text-align: center;
+    font-weight: 900;
+    font-size: 5rem;
+}
